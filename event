@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>registration form</title>
+</head>
+<body bgcolor="black">
+<br>
+<br>
+<form>
+<label>first name:</label>
+<input type="text" name="first name" size="15"/>
+<br>
+<br>
+</form>
+</body>
+</html>
